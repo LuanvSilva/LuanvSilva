@@ -1,5 +1,3 @@
-# Criar o conteúdo do README.md com as personalizações prontas para Luan Vitorio da Silva
-readme_content = """
 <h1 align="center">👋 Olá, sou Luan Vitorio da Silva</h1>
 
 <p align="center">
@@ -80,18 +78,6 @@ Tenho como meta colaborar com times ágeis na criação de soluções robustas, 
 
 ---
 
-## 📈 Estatísticas
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanvitoriodasilva&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=luanvitoriodasilva&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
 </p>
-"""
-
-# Salvar o conteúdo no arquivo
-path = "/mnt/data/README_LuanVitorioDaSilva.md"
-with open(path, "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-path

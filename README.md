@@ -77,7 +77,3 @@ Tenho como meta colaborar com times ágeis na criação de soluções robustas, 
 🔗 LinkedIn: [linkedin.com/in/luan-vitorio-da-silva66a820245](https://www.linkedin.com/in/luan-vitorio-da-silva66a820245)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
-</p>
